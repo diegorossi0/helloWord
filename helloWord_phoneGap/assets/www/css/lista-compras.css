@@ -1,0 +1,16 @@
+
+#lista-compras {
+	width: 100%;
+}
+#lista-compras td, #lista-compras th {
+	text-align: center;
+}
+.comprado-true {
+	text-decoration: line-through;
+	color: red;
+}
+
+.checkbox-maior{
+	width:60px;
+	height:150%;
+}
